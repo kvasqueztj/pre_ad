@@ -1,1 +1,47 @@
-xsdfffdf
+#m1{
+  color: black;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+#m2{
+  color: gray;
+  text-align: center;
+  font-size: 30px;
+}
+
+#m3{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#rCorretas{
+  color: green;
+  background:white;
+  border: 2px solid green;
+  margin: 15px;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+  float: left;
+  width: 250px;
+}
+
+
+#rErradas{
+  color: red;
+  background: white;
+  border: 2px solid red;
+  margin: 15px;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+  float: left;
+  width: 250px;
+}
+
